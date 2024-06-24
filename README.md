@@ -11,12 +11,11 @@
   ## Installation
   You will need jest and inquirer installed in addition to cloning this repository.
   ## Usage
-  After installation, type "node index.js" in the cmd line. A series of questions will then prompt you to answer them, and then it will generate a logo depending on the answers you provide.
+  After installation, type "node index.js" in the cmd line. A series of questions will then prompt you to answer them, and then it will generate a logo depending on the answers you provide. Here is a [video walkthrough.](https://drive.google.com/file/d/1MgPS4XBwxUIrbFUUHlxVcNZMml1rsVFI/view)
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   This application is covered under MIT.
   ## Contributing
-  undefined
   You may visit this [GitHub](https://github.com/AlexHappel). to contribute to this app in any way you'd like. Just create a fork.
   ## Questions
   If you have any questions, please send them to this [email](mailto:Alex.happel90@gmail.com)
